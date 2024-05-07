@@ -1,4 +1,4 @@
-# Maxime B *aka* ObscureAngel ou Obscure
+# M B *aka* ObscureAngel ou Obscure
 
 ### # Qui suis-je
 Développeur web depuis plusieurs années déjà (~6ans), je me présente enfin. Passionné par les nouvelles technologies et le jeu vidéo depuis mon enfance, je rêvais de travailler dans...les énergies renouvelable ! Vous me direz "Pourquoi ne pas avoir continué ?", question plutôt logique en soi. Et bien simplement parce que lors de ma sélection d'option en terminale, j'ai pris ISN (*Informatique et Sciences du Numérique*). C'est là que j'ai découvert le monde du code.
@@ -15,7 +15,7 @@ Je suis également fan des univers Wakfu et Dragons. Vous préférez les chats ?
 (*J'ai pas fini, la suite au prochain commit !*)
 
 ***
-# Maxime B *aka* ObscureAngel or Obscure
+# M B *aka* ObscureAngel or Obscure
 
 Currently working on english version. Don't worry, it will be coming soon ;)
 
